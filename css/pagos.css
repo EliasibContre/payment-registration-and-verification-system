@@ -1,0 +1,53 @@
+css
+/* admin.css */
+ body {
+  font-family: Arial, sans-serif;
+}
+ header {
+  background-color: #f8f9fa;
+  text-align: center;
+  padding: 10px 0;
+
+}
+ nav {
+  background-color: #4FA9F5;
+  color: #fff;
+  padding: 10px;
+}
+ nav ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+ nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+ main {
+  padding: 20px;
+}
+ section {
+  margin-bottom: 20px;
+}
+ table {
+  width: 100%;
+  border-collapse: collapse;
+}
+ table, th, td {
+  border: 1px solid #dee2e6;
+  padding: 10px;
+  text-align: left;
+}
+ table th {
+  background-color: #4FA9F5;
+  color: #fff;
+}
+ footer {
+  background-color: #f8f9fa;
+  text-align: center;
+  padding: 20px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}

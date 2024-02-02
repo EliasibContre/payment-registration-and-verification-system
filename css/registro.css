@@ -1,0 +1,24 @@
+css
+body {
+    background-color: #ffffff; /* fondo blanco */
+    color: #333333; /* texto gris oscuro */
+}
+ h2 {
+    color: #4FA9F5; /* título azul */
+}
+ .form-control {
+    border-color: #4FA9F5; /* borde de los campos de entrada azul */
+}
+ .btn-primary {
+    background-color: #4FA9F5; /* botón azul */
+    border-color: #4FA9F5; /* borde del botón azul */
+}
+
+.fa-user,
+.fa-map-marker-alt,
+.fa-envelope,
+.fa-map-pin,
+.fa-phone,
+.fa-lock {
+    color: #4FA9F5;
+}
